@@ -1,4 +1,4 @@
-module table
+module github.com/equationzhao/table
 
 go 1.22.11
 

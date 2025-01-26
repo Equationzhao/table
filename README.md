@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-	table := swiss.NewSwissTable(8)
+	table := table.NewSwissTable(8)
 
 	table.Insert("key1", 1)
 	table.Insert("key2", 2)
